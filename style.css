@@ -8,13 +8,17 @@ button {
   font-size: smaller;
 }
 
-.res_area {
+.res_area, #header {
   display: flex;
   align-items: center;
 }
 
 .res_area img {
   width: 250;
+}
+
+#header img {
+  height: 100;
 }
 
 /* Style the tab */
