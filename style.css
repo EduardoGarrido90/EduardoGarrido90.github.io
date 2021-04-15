@@ -21,6 +21,10 @@ button {
   height: 100;
 }
 
+#header ul {
+  list-style-type: none;
+}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
