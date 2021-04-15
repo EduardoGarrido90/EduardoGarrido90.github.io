@@ -1,8 +1,6 @@
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
 <html><head>
-  <style>
-	  body {font-family:sans-serif}
-  </style>
+  <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="Author" content="Eduardo Garrido">
@@ -25,6 +23,16 @@ Eduardo C. Garrido-Merchán
 
   </tbody>
 </table>
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Home')">Home</button>
+  <button class="tablinks" onclick="openTab(event, 'Publications')">Publications</button>
+  <button class="tablinks" onclick="openTab(event, 'Research')">Research</button>
+  <button class="tablinks" onclick="openTab(event, 'Teaching')">Teaching</button>
+  <button class="tablinks" onclick="openTab(event, 'Personal')">Personal</button>
+</div>
+
+<div id="Home" class="tabcontent">	
 <center>
 <table width="90%">
 <tbody>
@@ -46,6 +54,13 @@ Please, if you are interested by my research or want to do a collaboration, do n
 <center><img src="files/red_style.jpg" nosave="" width="400" height="330"></center>
 </td>
 </tr>
+</tbody>
+</table>
+</center>
+</div>
+<div id="Research" class="tabcontent">
+<center>
+<table width="90%"><tbody>
 <tr>
 <td>
 My main research interests and activities are the following ones:
@@ -116,11 +131,13 @@ Processes." IDEAL conference (2020).</li></ul>
 </tr>
 </tbody>
 </table>
+</div>
 <hr width="1000" noshade="noshade">
 <br><b>Email:</b> eduardo [pattern1] garrido [pattern2] uam [pattern1] es<br> 
 <hr width="1000" noshade="noshade">
 <br><b>Office:</b> B-402. EPS. UAM.<br>
 
+<div id="Publications" class="tabcontent">
 <h3> Research (see Google Scholar Eduardo C. Garrido Merchan for an updated list)</h3>
 <h4> Refereed Journal Publications </h4>
 
@@ -239,6 +256,9 @@ NeurIPS, ICML (top 33% reviewers 2020), AAAI, UAI, AIStats... <br><br>
 </li><li> <b>Machine Learning Summer School</b> 2018, Volunteer and Co-organizer
 </li></ul>
 
+</div>
+
+<div id="Teaching" class="tabcontent">
 <h3> Teaching </h3>
 <ul>
 <li> 2018-2020: Artificial Intelligence. Compilers.
@@ -248,7 +268,9 @@ Directed three final degree thesis about optimization in arts. (Cooking,
  music and images).
 </li><li> 2016-2017: Operative Systems.
 </li></ul>
+</div>
 
+<div id="Personal" class="tabcontent">
 <h4>Literature recommendations</h4>. 
 Some philosophical-scifi narrative that you may like:
 <ul>
@@ -274,6 +296,8 @@ I specially enjoy RPGs amongst the rest of videogames, these are my favourites, 
 </li><li> <b>Terranigma</b> SNES. 
 I also used to play a lot to <b>Age of Empires II</b> when I was young.
 </li></ul>
+</div>
 
+<script src="tabs.js"></script>
 
 </body></html>
