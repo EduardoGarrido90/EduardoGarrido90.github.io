@@ -8,8 +8,12 @@ button {
   font-size: smaller;
 }
 
+.res_area {
+  display: flex;
+  align-items: center;
+}
+
 .res_area img {
-  float: left; 
   width: 250;
 }
 
