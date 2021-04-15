@@ -10,6 +10,7 @@ button {
 
 .res_area img {
   float: left; 
+  width: 250;
 }
 
 /* Style the tab */
