@@ -8,6 +8,10 @@ button {
   font-size: smaller;
 }
 
+.res_area img {
+  float: left; 
+}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
