@@ -8,6 +8,11 @@ button {
   font-size: smaller;
 }
 
+a {
+  text-decoration:none;
+  font-style: italic;
+}
+
 .res_area, #header {
   display: flex;
   align-items: center;
