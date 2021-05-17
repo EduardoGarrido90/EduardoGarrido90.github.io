@@ -19,6 +19,11 @@ function openTab(evt, tabName) {
   evt.currentTarget.className += " active";
 }
 
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+} 
+
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 
