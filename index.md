@@ -15,7 +15,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 # Research
 
 ## Bayesian Optimization
-![BO](./files/constrained_multiobjective.png | width = 100)
+![BO](./files/constrained_multiobjective.png)
 This is my main area of research. 
 With Bayesian Optimization we can auto-tune any machine learning 
 algorithm. Furthermore, we can even perform automatic machine learning 
@@ -65,6 +65,17 @@ long time. Neuroscientist are also working a lot here. It is quite challenging t
 
 # Teaching
 
+## Laboratory/practical at Universidad Autonoma de Madrid
+* 2021: Artificial Intelligence. (3 final degree thesis)
+* 2018-2020: Artificial Intelligence. Compilers. (1 final degree thesis)
+* 2018: Databases. (2 final degree thesis)
+* 2017-2018: Artificial Intelligence and Operative Systems. Directed three final degree thesis about optimization in arts. (Cooking, music and images)
+* 2016-2017: Operative Systems.
+
+## Data Science courses
+* Msc of Data Science at Universidad de Alcalá: Tools of Data science: R and Tidyverse course.
+* REALE insurances: Deep Learning and Ensembles course. Theory and practice.
+
 * * *
 
 # Publications
@@ -102,9 +113,25 @@ Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. 
 
 # Code 
 
+Here are some links to my public code on Github or to codes where I have collaborated, I have a lot more of private repos, soon they will be available!
+* Branch of Spearmint Bayesian optimization tool with my Bayesian optimization methods (not all!) [URL](https://github.com/EduardoGarrido90/Spearmint)
+* Bayesian optimization of the Bayesian Networks PC algorithm: [URL](https://github.com/EduardoGarrido90/bopc)
+* Probabilistic causal graphs (PCGs) Python-Prolog implementation, causal relations engine and fake news classifier based in PCGs [URL](https://github.com/EduardoGarrido90/omnius)
+* Multi-class Gaussian Process Classification with Noisy Inputs [URL](https://github.com/EduardoGarrido90/GPInputNoise)
+* Framework for the high-dimensional sampling challenge of DarkMachines.org [URL](https://github.com/DarkMachines/high-dimensional-sampling)
+
 * * *
 
-# Talks
+# Workshop abstracts and posters
+
+* Jariego-Pérez, L. C. and Garrido-Merchán E. C. *Heuristic Bayesian Optimization*.	**Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
+* Garrido Merchán, E. C. and Hernández-Lobato, D. *Parallel Predictive Entropy Search for Multiobjective Optimization with Constraints*. **Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
+* Garrido Merchán, E. C., Zaldívar, B. and Hernández-Lobato, D. *A Gaussian Process Model for Multi-class Classification with Noisy Inputs*. **Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
+* Garrido-Merchán, E. C. and Hernández Lobato, D. *Dealing with Integer and Categorical-valued Variables in Bayesian Optimization with Gaussian Processes*. **AutoML workshop at ICML**, Stockholmsmässan, Stockholm, 2018.
+* Córdoba, I., Garrido-Merchán, E. C., Hernández-Lobato, D., Bielza, C. and Larrañaga, P. *Bayesian optimization of the PC algorithm for learning Gaussian Bayesian networks*. **Machine Learning Summer School**, Universidad Autónoma de Madrid, Madrid, 2018.
+* Garrido-Merchán, E. C., Hernández-Lobato, D. *Dealing with Integer-valued Variables in Bayesian Optimization with Gaussian Processes*. **AutoML workshop at ICML**, International Convention Centre, Sydney, 2017.
+* Garrido-Merchán, E. C. *Information based approaches for Bayesian optimization*. **Advances and applications of data science and engineering**, Real Academia de Ingeniería, Madrid, 2016.
+* Garrido-Merchán, E. C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **BayesOpt workshop at NeurIPS**, Centro de Convenciones Internacionales, Barcelona, 2016.
 
 * * *
 
@@ -143,4 +170,3 @@ I love philosophy since I was a kid. Hence, I have read quite a lot. In particul
 * **Metaphysics and the ancient world** Here, I recommend to start with the presocratics, Plato and Aristotle.
 
 I prefer to keep my views, beliefs and opinions about these topics private. But do not hesitate in debating with me any philosophical, political or religious topic, I will be delighted to do so!
-</div>
