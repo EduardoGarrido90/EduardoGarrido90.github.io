@@ -9,3 +9,33 @@ probabilistic machine learning, causality and machine consciousness. I am also i
 machine learning in general, as I am a very curious person.
 
 Please, do not hesitate to send me an email if you want to discuss any topic or to get in touch. I like a lot to meet new people with common interests. 
+
+# Research
+
+## Bayesian Optimization
+This is my main area of research. 
+With Bayesian Optimization we can auto-tune any machine learning 
+algorithm. Furthermore, we can even perform automatic machine learning 
+or optimize real industrial applications. Have you ever dream on 
+pressing a red button and getting the perfect configuration for an 
+algorithm or process without even thinking about how it works? Here is 
+your solution. My work resides in expansions of the Bayesian 
+Optimization framework. Main papers:
+* Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
+* Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
+
+## Gaussian processes
+
+## Causality
+
+## Machine consciousness
+
+# Teaching
+
+# Publications
+
+# Code 
+
+# Other
+
+# Personal
