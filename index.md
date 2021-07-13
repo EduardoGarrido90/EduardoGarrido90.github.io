@@ -15,7 +15,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 
 # Research
 
-**Bayesian Optimization**
+## Bayesian Optimization
 <img src="files/constrained_multiobjective.png" width="50%"/>
 
 This is my main area of research. 
@@ -29,7 +29,7 @@ Optimization framework. Main papers:
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
-**Gaussian processes**
+## Gaussian processes
 <img src="files/posterior_mean_persp3d.png" width="50%"/>
 
 Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
@@ -41,7 +41,7 @@ Main papers:
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 
-**Causality**
+## Causality
 <img src="files/lung_cancer_cut.png" width="50%"/>
 
 Correlations are not the only important thing in 
@@ -54,7 +54,7 @@ different ways to represent causation using graphs. Main papers:
 * Puente, C., Sobrino, A., Olivas, J. A. and Garrido, E. *Summarizing information by means of causal sentences through causal graphs*. **Journal of Applied Logic**, 24(B):3-14. [URL](https://doi.org/10.1016/j.jal.2016.11.020)
 * Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
 
-**Machine consciousness**
+## Machine consciousness
 <img src="files/consciousness.jpg" width="50%"/>
 
 This is personal research but I consider 
@@ -89,7 +89,7 @@ long time. Neuroscientist are also working a lot here. It is quite challenging t
 *	Garrido-Merchán, E.C., Puente, C., Sobrino, A. and Olivas, J. A. *Uncertainty Weighted Causal Graphs*. [URL](https://arxiv.org/abs/2002.00429)
 *	Garrido-Merchán, E.C., Molina, M. and Mendoza, F. M. *An Artificial Consciousness Model and its relations with Philosophy of Mind*. Under review, 2021. [URL](https://arxiv.org/abs/2011.14475)
 
-## Refereed Journals
+## Journals
 * Balázs, Csaba, et al. *A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications*. **Journal of High Energy Physics**, accepted, 2021. [URL](https://arxiv.org/abs/2101.04525)
 * Sobrino, A., Garrido-Merchán, E. C. and Puente, C. *Fuzzy Stochastic Timed Petri Nets for Causal Properties Representation*. **Journal of New Mathematics and Natural Computation**, accepted, 2021. [URL](https://doi.org/10.1142/S1793005721500320)
 Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
@@ -114,21 +114,7 @@ Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. 
 * Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Compressing the representation of a causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 122-127, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608386)
 * Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Creating a natural language summary from a compressed causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 513-518, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608453)
 
-* * *
-
-# Code 
-
-Here are some links to my public code on Github or to codes where I have collaborated, I have a lot more of private repos, soon they will be available!
-* Branch of Spearmint Bayesian optimization tool with my Bayesian optimization methods (not all!) [URL](https://github.com/EduardoGarrido90/Spearmint)
-* Bayesian optimization of the Bayesian Networks PC algorithm: [URL](https://github.com/EduardoGarrido90/bopc)
-* Probabilistic causal graphs (PCGs) Python-Prolog implementation, causal relations engine and fake news classifier based in PCGs [URL](https://github.com/EduardoGarrido90/omnius)
-* Multi-class Gaussian Process Classification with Noisy Inputs [URL](https://github.com/EduardoGarrido90/GPInputNoise)
-* Framework for the high-dimensional sampling challenge of DarkMachines.org [URL](https://github.com/DarkMachines/high-dimensional-sampling)
-
-* * *
-
-# Workshop abstracts and posters
-
+## Workshops
 * Jariego-Pérez, L. C. and Garrido-Merchán E. C. *Heuristic Bayesian Optimization*.	**Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
 * Garrido Merchán, E. C. and Hernández-Lobato, D. *Parallel Predictive Entropy Search for Multiobjective Optimization with Constraints*. **Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
 * Garrido Merchán, E. C., Zaldívar, B. and Hernández-Lobato, D. *A Gaussian Process Model for Multi-class Classification with Noisy Inputs*. **Bayesian Inference In Stochastic Processes**, Real Academia de Ciencias Exactas, Físicas y Naturales, Madrid, 2019.
@@ -140,13 +126,25 @@ Here are some links to my public code on Github or to codes where I have collabo
 
 * * *
 
+# Code 
+
+Here are some links to my public code on Github or to codes where I have collaborated, I have a lot more of private repos, soon they will be available!
+* Branch of Spearmint Bayesian optimization tool with my Bayesian optimization methods (not all!) [URL](https://github.com/EduardoGarrido90/Spearmint)
+* Bayesian optimization of the Bayesian Networks PC algorithm: [URL](https://github.com/EduardoGarrido90/bopc)
+* Probabilistic causal graphs (PCGs) Python-Prolog implementation, causal relations engine and fake news classifier based in PCGs [URL](https://github.com/EduardoGarrido90/omnius)
+* Multi-class Gaussian Process Classification with Noisy Inputs [URL](https://github.com/EduardoGarrido90/GPInputNoise)
+* Framework for the high-dimensional sampling challenge of DarkMachines.org [URL](https://github.com/DarkMachines/high-dimensional-sampling)
+
+
+* * *
+
 # Other
-## Reviewer
+**Reviewer**
 
 AAAI (2020, 2021), UAI (2019, 2020), ECML (2020), ICML (2019 - <i>Top Reviewer</i>), 
 ICLR (2019, 2021), NeurIPS (2018, 2019 - <i>Top Reviewer</i>, 2020), ACM Computing Surveys, AISTATS (2018, 2021), AutoML (2018, 2019, 2020), BayesOpt (2017)
 
-## Education
+**Education**
 * **Gaussian Process Summer School** 2020.
 * **Machine Learning Summer School** 2018, Volunteer and Co-organizer
 
@@ -154,7 +152,7 @@ ICLR (2019, 2021), NeurIPS (2018, 2019 - <i>Top Reviewer</i>, 2020), ACM Computi
 
 # Personal
 
-## Literature recommendations
+**Literature recommendations**
 Some scifi narrative that you may like:
 * **Olaf Stapledon**: Star Maker, The First and Last Men, Weird John. 
 * **Greg Egan**: Hard scifi. Schild ladder, Quarantine.
@@ -166,7 +164,7 @@ Some scifi narrative that you may like:
 * **Isaac Asimov**: The Last Question, The Last Answer, Foundation Saga. (Specially the Second Foundation!) A classic.
 * **Andy Weir**: The Egg (Only five pages, give it a try!). Spinoza's God in a tale.
 
-## Videogames recommendations
+**Videogames recommendations**
 I specially enjoy RPGs amongst the rest of videogames, these are my favourites, ordered:
 * **Xenoblade Chronicles definitive edition** Nintendo Switch. Brilliant plot, philosophical references to Nietzsche.
 * **Chronno Trigger** SNES. Outstanding history, covering all the ages. The main character reflects Jesus of Nazareth.
@@ -174,7 +172,7 @@ I specially enjoy RPGs amongst the rest of videogames, these are my favourites, 
 * **Terranigma** SNES. 
 I also used to play a lot to **Age of Empires II** when I was young.
 
-## Philosophy recommendations
+**Philosophy recommendations**
 I love philosophy since I was a kid. Hence, I have read quite a lot. In particular, I like philosophy of mind, science, of religion, metaphysics and ethics. Here are some recommendations:
 * **History of philosophy** I recommend Reale's books for a quick tour and Copleston books for a more detailed tour. Fraile's book are quite good for the antique and medieval world. 
 * **Ethics** Catholic values are great to build a better world. Even if you do not believe, reading (without prejudice for the non-believers) the Bible and in particular The New Testament can be quite an experience. Just give it a try.
