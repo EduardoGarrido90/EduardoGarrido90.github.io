@@ -70,14 +70,14 @@ long time. Neuroscientist are also working a lot here. It is quite challenging t
 
 # Teaching
 
-## Laboratory/practical at Universidad Autonoma de Madrid
+**Laboratory/practical at Universidad Autonoma de Madrid**
 * 2021: Artificial Intelligence. (3 final degree thesis)
 * 2018-2020: Artificial Intelligence. Compilers. (1 final degree thesis)
 * 2018: Databases. (2 final degree thesis)
 * 2017-2018: Artificial Intelligence and Operative Systems. Directed three final degree thesis about optimization in arts. (Cooking, music and images)
 * 2016-2017: Operative Systems.
 
-## Data Science courses
+**Data Science courses**
 * Msc of Data Science at Universidad de Alcalá: Tools of Data science: R and Tidyverse course.
 * REALE insurances: Deep Learning and Ensembles course. Theory and practice.
 
