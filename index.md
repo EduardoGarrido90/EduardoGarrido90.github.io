@@ -10,6 +10,8 @@ machine learning in general, as I am a very curious person.
 
 Please, do not hesitate to send me an email if you want to discuss any topic or to get in touch. I like a lot to meet new people with common interests. 
 
+* * *
+
 # Research
 
 ## Bayesian Optimization
@@ -30,7 +32,11 @@ Optimization framework. Main papers:
 
 ## Machine consciousness
 
+* * *
+
 # Teaching
+
+* * *
 
 # Publications
 ## Preprints
@@ -63,10 +69,18 @@ Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. 
 * Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Compressing the representation of a causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 122-127, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608386)
 * Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Creating a natural language summary from a compressed causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 513-518, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608453)
 
+* * *
+
 # Code 
+
+* * *
 
 # Talks
 
+* * *
+
 # Other
+
+* * *
 
 # Personal
