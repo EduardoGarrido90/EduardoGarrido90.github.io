@@ -15,6 +15,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 # Research
 
 ## Bayesian Optimization
+![BO](./files/posterior_mean_persp3d.png)
 This is my main area of research. 
 With Bayesian Optimization we can auto-tune any machine learning 
 algorithm. Furthermore, we can even perform automatic machine learning 
