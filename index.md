@@ -2,7 +2,7 @@
 
 Email: eduardo [pattern1] garrido [pattern2] uam [pattern1] es
 
-[CV](./files/CV.pdf) | [Google Scholar profile](https://scholar.google.es/citations?user=CjCcb90AAAAJ) | [Github profile](https://github.com/EduardoGarrido90) | [arXiv page](https://arxiv.org/a/garridomerchan_e_1.html)
+[CV](./files/CV.pdf) | [LinkedIn](https://www.linkedin.com/in/eduardo-c%C3%A9sar-garrido-merch%C3%A1n-390691166/) | [Github](https://github.com/EduardoGarrido90) | [Google Scholar](https://scholar.google.es/citations?user=CjCcb90AAAAJ) | [arXiv](https://arxiv.org/a/garridomerchan_e_1.html)
 
 Thanks a lot for coming and welcome to my web page! I am 
 **Eduardo C. Garrido Merchán**, a research scientist currently working as Teaching Assistant @[UAM](http://www.uam.es/) on artificial intelligence and pursuing a PhD on **Bayesian optimization** at the [Machine Learning group](http://arantxa.ii.uam.es/~gaa/publications.html).
