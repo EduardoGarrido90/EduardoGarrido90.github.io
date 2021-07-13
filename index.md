@@ -5,11 +5,9 @@ Email: eduardo [pattern1] garrido [pattern2] uam [pattern1] es
 [CV](./files/CV.pdf) | [Google Scholar profile](https://scholar.google.es/citations?user=CjCcb90AAAAJ) | [Github profile](https://github.com/EduardoGarrido90) | [arXiv page](https://arxiv.org/a/garridomerchan_e_1.html)
 
 Thanks a lot for coming and welcome to my web page! I am 
-**Eduardo C. Garrido Merchán**, a research scientist currently working as a Teacher Assistant @[UAM](http://www.uam.es/) on artificial intelligence and studying a Machine Learning PhD (mainly focused in **Bayesian Optimization**) at the [Machine Learning group](http://arantxa.ii.uam.es/~gaa/publications.html). I am currently PhD candidate and hope to defend this summer!
+**Eduardo C. Garrido Merchán**, a research scientist currently working as Teaching Assistant @[UAM](http://www.uam.es/) on artificial intelligence and pursuing a PhD on **Bayesian optimization** at the [Machine Learning group](http://arantxa.ii.uam.es/~gaa/publications.html).
 
-About me: I enjoy a lot to spend time with my wife and kids and to read, mostly philosophy (mostly metaphysics, ethics and religion), artificial intelligence, scientific stuff and classics. I also like to debate about trascendental (and more terrenal) questions and to think about them. My research activities include Bayesian optimization, Gaussian processes, 
-probabilistic machine learning, causality and machine consciousness. I am also informed about natural language processing and 
-machine learning in general, as I am a very curious person.
+About me: I enjoy a lot to spend time with my wife and kids and to read, mostly philosophy (mostly metaphysics, ethics and religion), artificial intelligence, scientific stuff and classics. I also like to debate about trascendental (and more terrenal) questions and to think about them. My research activities include Bayesian optimization, Gaussian processes, probabilistic machine learning, causality and machine consciousness. I am also informed about natural language processing and machine learning in general, as I am a very curious person.
 
 Please, do not hesitate to send me an email if you want to discuss any topic or to get in touch. I like a lot to meet new people with common interests. 
 
@@ -17,29 +15,27 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 
 # Research
 
-## Bayesian Optimization
+## Bayesian optimization
 <img src="files/constrained_multiobjective.png" width="50%"/>
 
-This is my main area of research. 
-With Bayesian Optimization we can auto-tune any machine learning 
+This is my main area of research. With Bayesian optimization we can auto-tune any machine learning 
 algorithm. Furthermore, we can even perform automatic machine learning 
 or optimize real industrial applications. Have you ever dream on 
 pressing a red button and getting the perfect configuration for an 
 algorithm or process without even thinking about how it works? Here is 
 your solution. My work resides in expansions of the Bayesian 
-Optimization framework. Main papers:
+Optimization framework.
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
 ## Gaussian processes
 <img src="files/posterior_mean_persp3d.png" width="50%"/>
 
-Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
+Bayesian optimization uses probabilistic models in order to work: Gaussian processes are an example. There are 
 lots of stochastic processes that serve as priors over functions. These 
 are like probability distributions that serve as priors over data, but 
 for functions. These are very useful and beautiful to study models. My 
-work resides on expanding Gaussian Processes to different scenarios. 
-Main papers:
+work resides on expanding Gaussian processes to different scenarios. 
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 
@@ -51,7 +47,7 @@ machine learning. I can push a train when it starts moving and retain it
  when it stops. My movements are correlated with those of the train 
 but... the train stops moving because of my actions? Although there is 
 correlation there is not causation. Causation is important. I study 
-different ways to represent causation using graphs. Main papers:
+different ways to represent causation using graphs.
 * Sobrino, A., Garrido-Merchán, E. C. and Puente, C. *Fuzzy Stochastic Timed Petri Nets for Causal Properties Representation*. **Journal of New Mathematics and Natural Computation**, accepted, 2021. [URL](https://doi.org/10.1142/S1793005721500320)
 * Puente, C., Sobrino, A., Olivas, J. A. and Garrido, E. *Summarizing information by means of causal sentences through causal graphs*. **Journal of Applied Logic**, 24(B):3-14. [URL](https://doi.org/10.1016/j.jal.2016.11.020)
 * Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
