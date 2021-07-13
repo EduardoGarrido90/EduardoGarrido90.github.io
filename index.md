@@ -113,3 +113,34 @@ Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. 
 * * *
 
 # Personal
+
+## Literature recommendations
+Some scifi narrative that you may like:
+* **Olaf Stapledon**: Star Maker, The First and Last Men, Weird John. 
+* **Greg Egan**: Hard scifi. Schild ladder, Quarantine.
+* **Liu Cixin**: The Three Body Problem trilogy, specially the last one: Death's End.
+* **H.P. Lovecraft**: Complete narrative. Master of cosmic terror.
+* **Arthur C. Clarke**: Childhood's end, 2001: A space oddysey and all the books in the saga, The city and the stars, Rendezvous with Rama. Like Olaf Stapledon, but more commercial.
+* **Stephen Baxter**: Manifold Time, Manifold Space. Arthur C. Clarke of the 21th century.
+* **Frank Herbert**: Destination Void, The prequels of Dune. Brilliant.
+* **Isaac Asimov**: The Last Question, The Last Answer, Foundation Saga. (Specially the Second Foundation!) A classic.
+* **Andy Weir**: The Egg (Only five pages, give it a try!). Spinoza's God in a tale.
+
+## Videogames recommendations
+I specially enjoy RPGs amongst the rest of videogames, these are my favourites, ordered:
+* **Xenoblade Chronicles definitive edition** Nintendo Switch. Brilliant plot, philosophical references to Nietzsche.
+* **Chronno Trigger** SNES. Outstanding history, covering all the ages. The main character reflects Jesus of Nazareth.
+* **Lufia II** SNES. Most romantic ending ever seen in a videogame.
+* **Terranigma** SNES. 
+I also used to play a lot to **Age of Empires II** when I was young.
+
+** Philosophy recommendations
+I love philosophy since I was a kid. Hence, I have read quite a lot. In particular, I like philosophy of mind, science, of religion, metaphysics and ethics. Here are some recommendations:
+* **History of philosophy** I recommend Reale's books for a quick tour and Copleston books for a more detailed tour. Fraile's book are quite good for the antique and medieval world. 
+* **Ethics** Catholic values are great to build a better world. Even if you do not believe, reading (without prejudice for the non-believers) the Bible and in particular The New Testament can be quite an experience. Just give it a try.
+* **Faith and reason** All the debates of medieval times are quite interesting. Concretely, Saint Augustine times are very interesting to read. I also recommend actual debates for example of William Lane Craig.
+* **Mind** Philosophy of mind is such an amazing field. Debates of David Chalmers vs Daniel Dennett are quite interesting. The conversation is about the hard problem of consciousness.
+* **Metaphysics and the ancient world** Here, I recommend to start with the presocratics, Plato and Aristotle.
+
+I prefer to keep my views, beliefs and opinions about these topics private. But do not hesitate in debating with me any philosophical, political or religious topic, I will be delighted to do so!
+</div>
