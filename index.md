@@ -44,8 +44,28 @@ Optimization framework. Main papers:
 Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 * Garrido-Merchán, E. C. and Hernández-Lobato, D.	*Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
+* Cornejo-Bueno, L., Garrido-Merchán, E. C., Hernández-Lobato, D. and Salcedo-Sanz, S. *Bayesian optimization of a hybrid system for robust ocean wave features prediction*. **Neurocomputing**, 275:818-828, 2018. [URL](https://doi.org/10.1016/j.neucom.2017.09.025)
+* Puente, C., Sobrino, A., Olivas, J. A. and Garrido, E. *Summarizing information by means of causal sentences through causal graphs*. **Journal of Applied Logic**, 24(B):3-14, 2017. [URL](https://doi.org/10.1016/j.jal.2016.11.020)
+
+## Conferences
+* Garrido-Merchán, E. C. *Transhumanismo y Consciencia Fenoménica*. **Congreso Razón Abierta**, accepted, 2021.
+* Asencio-Martín, L. and Garrido-Merchán, E. C.	*A Similarity Measure of Gaussian Process Predictive Distributions*. **Lecture Notes in Artificial Intelligence (CAEPIA 2021)**, accepted, 2021. [URL](https://arxiv.org/abs/2101.08061)
+* Jariego-Pérez, L. C. and Garrido-Merchán, E. C.	*Towards Automatic Bayesian Optimization: A first step involving acquisition functions*. **Lecture Notes in Artificial Intelligence (CAEPIA 2021)**, accepted, 2021. [URL](https://arxiv.org/abs/2003.09643)
+* González-Carvajal, S. and Garrido-Merchán, E. C. *Comparing BERT against traditional machine learning text classification*.	**Proceedings of the XIX Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA 2021)**, accepted, 2021.	[URL](https://arxiv.org/abs/2005.13012)
+* Garrido-Merchán, E. C. and Molina, M. *A Machine Consciousness Architecture Based on Deep Learning and Gaussian Processes*.	**Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:350-361, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_29)
+* Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
+* Garrido-Merchán, E. C., Puente C. and Olivas, J. A. *Generating a Question Answering System from Text Causal Relations*. **Lecture Notes in Artificial Intelligence (HAIS 2019)**, 11734:14-25, Springer, 2019. [URL](https://doi.org/10.1007/978-3-030-29859-3_2)
+* Garrido-Merchán, E. C. and Albarca-Molina, A. *Suggesting Cooking Recipes Through Simulation and Bayesian Optimization*. **Lecture Notes in Computer Science (IDEAL 2018)**, 11314:117-124, 2018. [URL](https://doi.org/10.1007/978-3-030-03493-1_30)
+* Córdoba, I., Garrido-Merchán, E. C., Hernández-Lobato, D., Bielza, C. and Larrañaga, P. *Bayesian Optimization of the PC Algorithm for Learning Gaussian Bayesian Networks*. **Lecture Notes in Artificial Intelligence (CAEPIA 2018)**, 11160:44-54, 2018. [URL](https://doi.org/10.1007/978-3-030-00374-6_5)
+* Cornejo-Bueno, L., Garrido-Merchán, E. C., Hernández-Lobato, D. and Salcedo-Sanz, S. *Bayesian Optimization of a Hybrid Prediction System for Optimal Wave Energy Estimation Problems*. **Lecture Notes in Computer Science (IWANN 2017)**, 10305:648-660, Springer, 2017. [URL](https://doi.org/10.1007/978-3-319-59153-7_56)
+* Puente, C., Sobrino, A., Garrido, E. and Olivas, J. A. *Summarizing Information by Means of Causal Sentences Through Causal Questions*. **Advances in Intelligent Systems and Computing**, 368:353-363, Springer, 2015. [URL](https://doi.org/10.1007/978-3-319-19719-7_31)
+* Puente, C., Garrido, E. and Olivas, J. A. *Answering Questions by Means of Causal Sentences*. **Lecture Notes in Artificial Intelligence (FQAS 2013)**, 8132:91-99, Springer, 2013. [URL](https://doi.org/10.1007/978-3-642-40769-7_8)
+* Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Compressing the representation of a causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 122-127, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608386)
+* Puente, C., Olivas, J. A., Garrido, E. and Seisdedos, R. *Creating a natural language summary from a compressed causal graph*. **Proceedings of the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)**, 513-518, IEEE, 2013. [URL](https://doi.org/10.1109/IFSA-NAFIPS.2013.6608453)
 
 # Code 
+
+# Talks
 
 # Other
 
