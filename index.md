@@ -1,3 +1,4 @@
+![Eduardo](./files/photo.jpg)
 * Email: eduardo [pattern1] garrido [pattern2] uam [pattern1] es
 * [CV](./files/CV.pdf) | [Google Scholar profile](https://scholar.google.es/citations?user=CjCcb90AAAAJ) | [Github profile](https://github.com/EduardoGarrido90) | [arXiv page](https://arxiv.org/a/garridomerchan_e_1.html)
 
@@ -16,6 +17,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 
 ## Bayesian Optimization
 ![BO](./files/constrained_multiobjective.png)
+
 This is my main area of research. 
 With Bayesian Optimization we can auto-tune any machine learning 
 algorithm. Furthermore, we can even perform automatic machine learning 
@@ -29,6 +31,7 @@ Optimization framework. Main papers:
 
 ## Gaussian processes
 ![GP](./files/posterior_mean_persp3d.png)
+
 Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
 lots of stochastic processes that serve as priors over functions. These 
 are like probability distributions that serve as priors over data, but 
@@ -40,6 +43,7 @@ Main papers:
 
 ## Causality
 ![Causality](./files/lung_cancer_cut.png)
+
 Correlations are not the only important thing in 
 machine learning. I can push a train when it starts moving and retain it
  when it stops. My movements are correlated with those of the train 
@@ -52,6 +56,7 @@ different ways to represent causation using graphs. Main papers:
 
 ## Machine consciousness
 ![Consciousness](./files/consciousness.jpg)
+
 This is personal research but I consider 
 to know as much about this as from my other research. Consciousness is a topic that lies in 
 the borderline of the scientific method, but now even Yoshua Bengio 
@@ -136,6 +141,14 @@ Here are some links to my public code on Github or to codes where I have collabo
 * * *
 
 # Other
+## Reviewer
+
+AAAI (2020, 2021), UAI (2019, 2020), ECML (2020), ICML (2019 - <i>Top Reviewer</i>), 
+ICLR (2019, 2021), NeurIPS (2018, 2019 - <i>Top Reviewer</i>, 2020), ACM Computing Surveys, AISTATS (2018, 2021), AutoML (2018, 2019, 2020), BayesOpt (2017)
+
+## Education
+* **Gaussian Process Summer School** 2020.
+* **Machine Learning Summer School** 2018, Volunteer and Co-organizer
 
 * * *
 
