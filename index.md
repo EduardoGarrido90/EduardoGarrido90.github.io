@@ -33,6 +33,17 @@ Optimization framework. Main papers:
 # Teaching
 
 # Publications
+## Preprints
+*	Garrido-Merchán, E.C. and Hernández-Lobato, D. *Parallel Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. [URL](https://arxiv.org/abs/2004.00601)
+*	Garrido-Merchán, E.C., Puente, C., Sobrino, A. and Olivas, J. A. *Uncertainty Weighted Causal Graphs*. [URL](https://arxiv.org/abs/2002.00429)
+*	Garrido-Merchán, E.C., Molina, M. and Mendoza, F. M. *An Artificial Consciousness Model and its relations with Philosophy of Mind*. Under review, 2021. [URL](https://arxiv.org/abs/2011.14475)
+
+## Refereed Journals
+* Balázs, Csaba, et al. *A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications*. **Journal of High Energy Physics**, accepted, 2021. [URL](https://arxiv.org/abs/2101.04525)
+* Sobrino, A., Garrido-Merchán, E. C. and Puente, C. *Fuzzy Stochastic Timed Petri Nets for Causal Properties Representation*. **Journal of New Mathematics and Natural Computation**, accepted, 2021. [URL](https://doi.org/10.1142/S1793005721500320)
+Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
+* Garrido-Merchán, E. C. and Hernández-Lobato, D.	*Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
+* Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
 # Code 
 
