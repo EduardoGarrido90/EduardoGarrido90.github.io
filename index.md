@@ -15,7 +15,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 # Research
 
 ## Bayesian Optimization
-![BO](./files/posterior_mean_persp3d.png)
+![BO](./files/constrained_multiobjective.png)
 This is my main area of research. 
 With Bayesian Optimization we can auto-tune any machine learning 
 algorithm. Furthermore, we can even perform automatic machine learning 
@@ -28,10 +28,38 @@ Optimization framework. Main papers:
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
 ## Gaussian processes
+![GP](./files/posterior_mean_persp3d.png)
+Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
+lots of stochastic processes that serve as priors over functions. These 
+are like probability distributions that serve as priors over data, but 
+for functions. These are very useful and beautiful to study models. My 
+work resides on expanding Gaussian Processes to different scenarios. 
+Main papers:
+* Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
+* Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 
 ## Causality
+![Causality](./files/lung_cancer_cut.png)
+Correlations are not the only important thing in 
+machine learning. I can push a train when it starts moving and retain it
+ when it stops. My movements are correlated with those of the train 
+but... the train stops moving because of my actions? Although there is 
+correlation there is not causation. Causation is important. I study 
+different ways to represent causation using graphs. Main papers:
+* Sobrino, A., Garrido-Merchán, E. C. and Puente, C. *Fuzzy Stochastic Timed Petri Nets for Causal Properties Representation*. **Journal of New Mathematics and Natural Computation**, accepted, 2021. [URL](https://doi.org/10.1142/S1793005721500320)
+* Puente, C., Sobrino, A., Olivas, J. A. and Garrido, E. *Summarizing information by means of causal sentences through causal graphs*. **Journal of Applied Logic**, 24(B):3-14. [URL](https://doi.org/10.1016/j.jal.2016.11.020)
+* Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
 
 ## Machine consciousness
+![Consciousness](./files/consciousness.jpg)
+This is personal research but I consider 
+to know as much about this as from my other research. Consciousness is a topic that lies in 
+the borderline of the scientific method, but now even Yoshua Bengio 
+studies it. It is an interdisciplinary area targeted as well by brain 
+inspired AI. Philosophy of Mind has worked in this topic for quite a 
+long time. Neuroscientist are also working a lot here. It is quite challenging to write about this topic but as I study lots of philosophy I think that I can also contribute to this field as an interdisciplinary computer science philosopher. 
+* Garrido-Merchán, E. C. and Molina, M. *A Machine Consciousness Architecture Based on Deep Learning and Gaussian Processes*. **Lecture Notes in Artificial Intelligence (HAIS 2021)**, 12344:350-361, 2021. [URL](https://doi.org/10.1007/978-3-030-61705-9_29)
+
 
 * * *
 
