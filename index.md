@@ -1,4 +1,4 @@
-![Eduardo](./files/photo.jpg)
+![Eduardo](./files/photo.jpg){width=50%}
 * Email: eduardo [pattern1] garrido [pattern2] uam [pattern1] es
 * [CV](./files/CV.pdf) | [Google Scholar profile](https://scholar.google.es/citations?user=CjCcb90AAAAJ) | [Github profile](https://github.com/EduardoGarrido90) | [arXiv page](https://arxiv.org/a/garridomerchan_e_1.html)
 
@@ -16,7 +16,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 # Research
 
 ## Bayesian Optimization
-![BO](./files/constrained_multiobjective.png)
+![BO](./files/constrained_multiobjective.png){width=50%}
 
 This is my main area of research. 
 With Bayesian Optimization we can auto-tune any machine learning 
@@ -30,7 +30,7 @@ Optimization framework. Main papers:
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
 ## Gaussian processes
-![GP](./files/posterior_mean_persp3d.png)
+![GP](./files/posterior_mean_persp3d.png){width=50%}
 
 Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
 lots of stochastic processes that serve as priors over functions. These 
@@ -42,7 +42,7 @@ Main papers:
 * Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 
 ## Causality
-![Causality](./files/lung_cancer_cut.png)
+![Causality](./files/lung_cancer_cut.png){width=50%}
 
 Correlations are not the only important thing in 
 machine learning. I can push a train when it starts moving and retain it
@@ -55,7 +55,7 @@ different ways to represent causation using graphs. Main papers:
 * Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
 
 ## Machine consciousness
-![Consciousness](./files/consciousness.jpg)
+![Consciousness](./files/consciousness.jpg){width=50%}
 
 This is personal research but I consider 
 to know as much about this as from my other research. Consciousness is a topic that lies in 
