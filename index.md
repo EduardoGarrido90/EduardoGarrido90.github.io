@@ -15,7 +15,7 @@ Please, do not hesitate to send me an email if you want to discuss any topic or 
 
 # Research
 
-## Bayesian Optimization
+**Bayesian Optimization**
 <img src="files/constrained_multiobjective.png" width="50%"/>
 
 This is my main area of research. 
@@ -29,7 +29,7 @@ Optimization framework. Main papers:
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Garrido-Merchán, E.C. and Hernández-Lobato, D. *Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints*. **Neurocomputing**, 361:50-68, 2019. [URL](https://doi.org/10.1016/j.neucom.2019.06.025)
 
-## Gaussian processes
+**Gaussian processes**
 <img src="files/posterior_mean_persp3d.png" width="50%"/>
 
 Bayesian Optimization uses Probabilistic Models in order to work. Gaussian Processes are an example. There are 
@@ -41,7 +41,7 @@ Main papers:
 * Garrido-Merchán, E. C. and Hernández-Lobato, D. *Dealing with categorical and integer-valued variables in Bayesian optimization with Gaussian processes*. **Neurocomputing**, 380:20-35, 2020. [URL](https://doi.org/10.1016/j.neucom.2019.11.004)
 * Villacampa, C., Zaldivar, B., Garrido-Merchán, E. C. and Hernández-Lobato, D. *Multi-class Gaussian Process Classification with Noisy Inputs*. **Journal of Machine Learning Research**, 22(36):1-52, 2021. [URL](https://jmlr.csail.mit.edu/papers/v22/20-107.html)
 
-## Causality
+**Causality**
 <img src="files/lung_cancer_cut.png" width="50%"/>
 
 Correlations are not the only important thing in 
@@ -54,7 +54,7 @@ different ways to represent causation using graphs. Main papers:
 * Puente, C., Sobrino, A., Olivas, J. A. and Garrido, E. *Summarizing information by means of causal sentences through causal graphs*. **Journal of Applied Logic**, 24(B):3-14. [URL](https://doi.org/10.1016/j.jal.2016.11.020)
 * Garrido-Merchán, E. C., Puente, C. and Palacios, R. *Fake News Detection by Means of Uncertainty Weighted Causal Graphs*. **Lecture Notes in Artificial Intelligence (HAIS 2020)**, 12344:13-24, 2020. [URL](https://doi.org/10.1007/978-3-030-61705-9_2)
 
-## Machine consciousness
+**Machine consciousness**
 <img src="files/consciousness.jpg" width="50%"/>
 
 This is personal research but I consider 
