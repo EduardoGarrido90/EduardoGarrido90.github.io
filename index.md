@@ -174,7 +174,7 @@ I specially enjoy RPGs amongst the rest of videogames, these are my favourites, 
 * **Terranigma** SNES. 
 I also used to play a lot to **Age of Empires II** when I was young.
 
-** Philosophy recommendations
+## Philosophy recommendations
 I love philosophy since I was a kid. Hence, I have read quite a lot. In particular, I like philosophy of mind, science, of religion, metaphysics and ethics. Here are some recommendations:
 * **History of philosophy** I recommend Reale's books for a quick tour and Copleston books for a more detailed tour. Fraile's book are quite good for the antique and medieval world. 
 * **Ethics** Catholic values are great to build a better world. Even if you do not believe, reading (without prejudice for the non-believers) the Bible and in particular The New Testament can be quite an experience. Just give it a try.
